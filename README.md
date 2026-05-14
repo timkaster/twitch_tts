@@ -54,5 +54,3 @@ When it connects, send a message in Twitch chat. The script should print the mes
 ## Notes
 
 The script plays audio on the system default output device. Change your Windows default audio device if you want the TTS to go somewhere else.
-
-Do not publish real API keys or OAuth tokens to GitHub. Use placeholders before committing.
